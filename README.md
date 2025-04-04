@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/badge/-sami.alnajadat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="tel:00962777415591">
-  <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
   </a>
 </p>
 
