@@ -54,16 +54,32 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Fullstack Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead Intern at GirlScript Foundation
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :trophy: Grand Finalist of "Smart India Hackathon 2019" - Software Edition
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- 💻 I'm a passionate Backend Web Developer, mainly working with Laravel and Yii2 frameworks.
+- 🌐 Exploring and building full-stack apps with React.js and Laravel APIs.
+- 🧠 Currently diving deeper into frontend development with JavaScript and React.
+- ☁️ Interested in DevOps & cloud deployment – learning AWS and deployment workflows.
+- 🛠️ Working on HR systems including attendance, shifts, and calendar features.
+- 🧪 Always eager to experiment with new tools and improve system architecture.
+- 🚀 Building multi-company support systems with role-based access and custom permissions.
+- 🎓 Around 1.5 years of hands-on experience in backend development.
+- 📦 Experienced in building and deploying Laravel and React projects in production.
+- ⚡ Fun fact: I enjoy solving real-world problems and learning by building.<br>
 
-<h2 align="left">:heart: Let's get connected:</h2>
+<h2 align="left">❤️ Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sami--al--njadat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sami-al-njadat/)](https://www.linkedin.com/in/sami-al-njadat/)
- [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
-[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sami-al-njadat/" target="_blank">
+    <img src="https://img.shields.io/badge/-Sami%20Al--Njadat-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  <a href="https://github.com/Sami-AL-njadat" target="_blank">
+    <img src="https://img.shields.io/badge/-Sami--AL--njadat-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
+  <a href="mailto:sami.alnajadat@gmail.com">
+    <img src="https://img.shields.io/badge/-sami.alnajadat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+
+  <img src="https://img.shields.io/badge/-00962777415591-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
+</p>
+
