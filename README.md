@@ -61,16 +61,17 @@
 - 🛠️ Working on HR systems including attendance, shifts, and calendar features.
 - 🧪 Always eager to experiment with new tools and improve system architecture.
 - 🚀 Building multi-company support systems with role-based access and custom permissions.
-- 🎓 Around 1.5 years of hands-on experience in backend development.
+- 🎓 Around 2.5 years of hands-on experience in backend development.
 - 📦 Experienced in building and deploying Laravel and React projects in production.
 - ⚡ Fun fact: I enjoy solving real-world problems and learning by building.<br>
 
 <h2 align="left">❤️ Let's get connected:</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sami-al-njadat/" target="_blank">
-    <img src="https://img.shields.io/badge/-Sami%20Al--Njadat-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+ <a href="https://www.linkedin.com/in/sami-al-njadat/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Sami_Al_Njadat-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
   
   <a href="https://github.com/Sami-AL-njadat" target="_blank">
     <img src="https://img.shields.io/badge/-Sami--AL--njadat-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
