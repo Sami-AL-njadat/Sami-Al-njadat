@@ -35,7 +35,7 @@
     </a>
     <!-- Adding Laravel -->
     <a href="https://laravel.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png)" alt="laravel" width="40" height="40"/>
     </a>
     <!-- Adding Yii2 -->
     <a href="https://www.yiiframework.com/" target="_blank">
