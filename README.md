@@ -43,7 +43,7 @@
     </a>
     <!-- Adding phpMyAdmin -->
     <a href="https://www.phpmyadmin.net/" target="_blank">
-        <img src="https://www.phpmyadmin.net/images/logo/phpmyadmin-logo.svg" alt="phpmyadmin" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1920px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin" width="40" height="40"/>
     </a>
     <!-- Adding SQL -->
     <a href="https://www.mysql.com/" target="_blank">
