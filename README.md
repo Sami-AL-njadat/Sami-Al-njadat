@@ -2,12 +2,17 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Sami njadat, Full Stack Web Developer :computer:<br>
-  <P>
-   KEEP TUCH WITH ME 
-     <a href="TEL:+962777415591">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
+  <br>
+  
+<p>
+  KEEP IN TOUCH WITH ME 
+  <br>
+ 
+  <a href="https://t.me/saminjt95" target="_blank">
+    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  </P>
+</p>
+
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
