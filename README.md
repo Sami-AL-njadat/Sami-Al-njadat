@@ -2,6 +2,12 @@
  <abc>
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Sami njadat, Full Stack Web Developer :computer:<br>
+  <P>
+   KEEP TUCH WITH ME 
+     <a href="TEL:+962777415591">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
+  </a>
+  </P>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -80,7 +86,7 @@
   <a href="mailto:sami.alnajadat@gmail.com">
     <img src="https://img.shields.io/badge/-sami.alnajadat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="sms:+962777415591">
+  <a href="TEL:+962777415591">
     <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
   </a>
 </p>
