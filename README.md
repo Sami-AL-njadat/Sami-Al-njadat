@@ -8,8 +8,7 @@
   KEEP IN TOUCH WITH ME 
   <br>
  
-  <a href="https://t.me/saminjt95" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  <a href="https://t.me/saminjt95" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </p>
 
