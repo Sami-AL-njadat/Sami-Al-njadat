@@ -3,6 +3,8 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Sami njadat, Full Stack Web Developer :computer:<br>
   <br>
+  <a href="https://sami-al-njadat.github.io" target="_blank"><img src="https://img.shields.io/badge/View_my_Portfolio-sami--al--njadat.github.io-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View my Portfolio"/></a>
+  <br>
   
 <p>
   KEEP IN TOUCH WITH ME 
@@ -78,6 +80,10 @@
 <h2 align="left">❤️ Let's get connected:</h2>
 
 <p align="left">
+ <a href="https://sami-al-njadat.github.io" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+</a>
+
  <a href="https://www.linkedin.com/in/sami-al-njadat/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Sami_Al_Njadat-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
