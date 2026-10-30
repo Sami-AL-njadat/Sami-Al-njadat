@@ -1,103 +1,133 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Sami njadat, Full Stack Web Developer :computer:<br>
-  <br>
-  <a href="https://sami-al-njadat.github.io" target="_blank"><img src="https://img.shields.io/badge/View_my_Portfolio-sami--al--njadat.github.io-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View my Portfolio"/></a>
-  <br>
-  
-<p>
-  KEEP IN TOUCH WITH ME 
-  <br>
- 
-  <a href="https://t.me/saminjt95" target="_blank"> <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</p>
-
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.postman.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <!-- Adding PHP -->
-    <a href="https://www.php.net/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <!-- Adding Laravel -->
-    <a href="https://laravel.com/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/>
-    </a>
-    <!-- Adding Yii2 -->
-    <a href="https://www.yiiframework.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yii/yii-original-wordmark.svg" alt="yii2" width="40" height="40"/>
-    </a>
-    <!-- Adding phpMyAdmin -->
-    <a href="https://www.phpmyadmin.net/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/1920px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin" width="40" height="40"/>
-    </a>
-    <!-- Adding SQL -->
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-</p>
-
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- 💻 I'm a passionate Backend Web Developer, mainly working with Laravel and Yii2 frameworks.
-- 🌐 Exploring and building full-stack apps with React.js and Laravel APIs.
-- 🧠 Currently diving deeper into frontend development with JavaScript and React.
-- ☁️ Interested in DevOps & cloud deployment – learning AWS and deployment workflows.
-- 🛠️ Working on HR systems including attendance, shifts, and calendar features.
-- 🧪 Always eager to experiment with new tools and improve system architecture.
-- 🚀 Building multi-company support systems with role-based access and custom permissions.
-- 🎓 Around 2.5 years of hands-on experience in backend development.
-- 📦 Experienced in building and deploying Laravel and React projects in production.
-- ⚡ Fun fact: I enjoy solving real-world problems and learning by building.<br>
-
-<h2 align="left">❤️ Let's get connected:</h2>
-
-<p align="left">
- <a href="https://sami-al-njadat.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-8b5cf6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio Badge"/>
+<a href="https://sami-al-njadat.github.io">
+  <img src="./assets/banner.svg" alt="Sami Al-Najadat — Full Stack Web Developer" width="100%" />
 </a>
 
- <a href="https://www.linkedin.com/in/sami-al-njadat/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Sami_Al_Njadat-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-
-  
-  <a href="https://github.com/Sami-AL-njadat" target="_blank">
-    <img src="https://img.shields.io/badge/-Sami--AL--njadat-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-
-  <a href="mailto:sami.alnajadat@gmail.com">
-    <img src="https://img.shields.io/badge/-sami.alnajadat@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-  <a href="TEL:+962777415591">
-    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone Badge"/>
-  </a>
+<p align="center">
+  <a href="https://sami-al-njadat.github.io"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=Full+Stack+Web+Developer;Laravel+%26+NestJS+Developer;React+%26+Next.js+Developer;PHP+%26+Node.js+Engineer;Real-world+Problem+Solver" alt="Full Stack Web Developer · Laravel & NestJS · React & Next.js" /></a>
 </p>
 
+<p align="center">
+  <a href="https://sami-al-njadat.github.io"><img src="https://img.shields.io/badge/Portfolio-sami--al--njadat.github.io-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sami-al-njadat/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sami.alnajadat@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/962777415591"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://t.me/saminjt95"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+</p>
+
+## 🌐 My Portfolio
+
+<a href="https://sami-al-njadat.github.io"><img src="./assets/portfolio.png" alt="Portfolio — home page" width="100%" /></a>
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://sami-al-njadat.github.io"><img src="./assets/portfolio-ar.png" alt="Portfolio — Arabic version" /></a></td>
+    <td width="50%"><a href="https://sami-al-njadat.github.io/#projects"><img src="./assets/portfolio-projects.png" alt="Portfolio — projects" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub>Full Arabic version (RTL) · النسخة العربية</sub></td>
+    <td align="center"><sub>Projects</sub></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://sami-al-njadat.github.io"><b>👉 Visit the live portfolio</b></a></p>
+
+## 👨🏻‍💻 About Me
+
+I'm **Sami Ismaeel Al-Najadat**, a passionate Full Stack Web Developer from Jordan with a backend heart. I work across two ecosystems — **PHP** (Laravel, Yii2) and **JavaScript / TypeScript** (Node.js, NestJS, React, Next.js) — on **MySQL** and **PostgreSQL**, picking the right tool for each project instead of forcing one stack.
+
+I work as part of teams and have delivered many projects — for large companies and individual clients alike — across **healthcare, technology, finance, journalism, education, HR management** and more.
+
+- 🏢 HR systems: attendance, shifts, calendars & payroll
+- 🔐 Multi-company platforms with role-based access & custom permissions
+- 🔌 REST APIs with Laravel, Node.js & NestJS — front ends with React & Next.js
+- 🚀 Building and deploying full-stack projects in production (AWS, DigitalOcean, Vercel)
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,ts,js,react,nextjs,html,css,tailwind,bootstrap&perline=12" alt="PHP, Laravel, Node.js, NestJS, TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind, Bootstrap" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,postman,aws,vercel,vite&perline=12" alt="MySQL, PostgreSQL, MongoDB, Git, GitHub, Postman, AWS, Vercel, Vite" />
+</p>
+
+<p align="center"><sub>Also: Yii2 · Eloquent ORM · Laravel Passport · REST APIs · DigitalOcean · Database design</sub></p>
+
+## 💼 Experience & Education
+
+| | Role | Where |
+|---|---|---|
+| 🟢 **Now** | Freelance Full Stack Developer | Self-employed |
+| ⏮️ Previously | Full Stack Web Developer | EMS |
+| ⏮️ Previously | Web Developer | Releans |
+| 💻 Bootcamp | Full Stack Web Development | Orange Coding Academy |
+| 🎓 Degree | B.Sc. Finance & Banking Science | Yarmouk University |
+| 🎓 Degree | B.Sc. Accounting | Yarmouk University |
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### [🧑‍💼 HR-SYS](https://github.com/Sami-AL-njadat/HR-SYS)
+A complete human-resources system: employees, departments, leaves, holidays, overtime, timesheets, payroll items, projects and goal tracking — with user roles.
+
+`PHP` `MySQL` `JavaScript`
+
+  </td>
+    <td width="50%" valign="top">
+
+### [🔐 Bassmaa API](https://github.com/Sami-AL-njadat/Bassmaa)
+Laravel 10 REST API secured with Laravel Passport (OAuth2), with migrations, seeders and a team Git workflow.
+
+`Laravel 10` `Passport` `REST API` `MySQL`
+
+  </td>
+  </tr>
+  <tr>
+    <td valign="top">
+
+### [🚛 Sonic Towing & Recovery](https://github.com/Sami-AL-njadat/Sonic-towing-Recovery)
+Website for a towing & roadside recovery business, built with Laravel, Blade templates and Vite.
+
+`Laravel` `Blade` `Vite`
+
+  </td>
+    <td valign="top">
+
+### [🍦 SamIceCream](https://github.com/Sami-AL-njadat/samIceCream)
+Ice-cream brand web app built with Laravel and Blade, styled with Tailwind CSS and bundled with Vite.
+
+`Laravel` `Tailwind CSS` `Vite`
+
+  </td>
+  </tr>
+  <tr>
+    <td valign="top">
+
+### [🛒 Full E-Commerce](https://github.com/Sami-AL-njadat/Full_ecommerce_php_mysql)
+Authentication, product catalog, cart, checkout, order processing, reviews & ratings — planned as a team with Miro, Trello & DrawSQL.
+
+`PHP` `MySQL` `JavaScript`
+
+  </td>
+    <td valign="top">
+
+### [📊 React Dashboard](https://github.com/Sami-AL-njadat/Course-)
+Front-end admin dashboard template built with React.js.
+
+`React.js` `JavaScript` `CSS`
+
+  </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://sami-al-njadat.github.io/#projects">See all projects on my portfolio →</a></p>
+
+## 📫 Let's Work Together
+
+<p align="center">
+  Have a project or an opportunity? <a href="https://sami-al-njadat.github.io/#contact"><b>Send me a message</b></a> — it lands straight in my inbox.
+  <br />
+  <sub>متاح للعمل الحر والمشاريع — تواصل معي عبر الموقع أو واتساب</sub>
+</p>
